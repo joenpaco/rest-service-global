@@ -1,4 +1,4 @@
-package com.joenpaco;
+package com.joenpaco.config;
 
 import java.util.Arrays;
 
